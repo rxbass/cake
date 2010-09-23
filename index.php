@@ -1,5 +1,6 @@
 <html>
 <head>
+<title>Checking By Basu</title>
 <link rel="stylesheet" href="css/quiz.css">
 <script type="text/javascript">
 function validate()
@@ -92,7 +93,7 @@ function validate()
               </tr>
             </table>
 			
-			</div>
+         	</div>
 			
 		</div>
 		
